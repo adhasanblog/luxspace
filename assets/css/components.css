@@ -1,0 +1,17 @@
+.container {
+  width: 1320px;
+  margin: 0 auto;
+}
+.btn {
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 0.75em 1.75em;
+  border: none;
+  outline: none;
+  border-radius: 57px;
+}
+
+.btn.primary-style {
+  color: black;
+  background-color: rgba(249, 202, 218, 1);
+}
